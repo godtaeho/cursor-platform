@@ -79,6 +79,45 @@
         "Pin": "pin_eoa.cur",
         "Person": "person_eoa.cur"
       }
+    },
+    {
+      "id": "crystalfacet",
+      "name": "CrystalFacet",
+      "description": "다면체로 깎인 수정 결정 느낌의 반투명 커서. 각진 면마다 빛이 다르게 반사되는 것이 특징입니다.",
+      "author": "임태호",
+      "version": "1.0.0",
+      "thumbnail": "previews/crystalfacet/thumb.png",
+      "downloadUrl": "cursors/crystalfacet.zip",
+      "sizeBytes": 6200991,
+      "previews": [
+        { "role": "arrow", "label": "기본 포인터", "image": "previews/crystalfacet/arrow.png" },
+        { "role": "link", "label": "링크 선택", "image": "previews/crystalfacet/link.png" },
+        { "role": "text", "label": "텍스트 선택", "image": "previews/crystalfacet/text.png" },
+        { "role": "busy", "label": "사용 중(대기)", "image": "previews/crystalfacet/busy.png" },
+        { "role": "working", "label": "백그라운드 작업", "image": "previews/crystalfacet/working.png" },
+        { "role": "move", "label": "이동", "image": "previews/crystalfacet/move.png" },
+        { "role": "precision", "label": "정밀 선택(십자선)", "image": "previews/crystalfacet/precision.png" },
+        { "role": "unavailable", "label": "사용할 수 없음", "image": "previews/crystalfacet/unavailable.png" }
+      ],
+      "files": {
+        "Arrow": "arrow.cur",
+        "Help": "help.cur",
+        "AppStarting": "working.ani",
+        "Wait": "busy.ani",
+        "Crosshair": "precision.cur",
+        "IBeam": "text.cur",
+        "NWPen": "pen.cur",
+        "No": "unavailable.cur",
+        "SizeNS": "vertical.cur",
+        "SizeWE": "horizontal.cur",
+        "SizeNWSE": "diagonal1.cur",
+        "SizeNESW": "diagonal2.cur",
+        "SizeAll": "move.cur",
+        "UpArrow": "alternate.cur",
+        "Hand": "link.cur",
+        "Pin": "pin_eoa.cur",
+        "Person": "person_eoa.cur"
+      }
     }
   ]
 }
