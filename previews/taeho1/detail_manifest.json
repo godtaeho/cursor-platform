@@ -1,0 +1,42 @@
+[
+  {
+    "role": "arrow",
+    "label": "기본 포인터",
+    "image": "previews/taeho1/arrow.png"
+  },
+  {
+    "role": "link",
+    "label": "링크 선택",
+    "image": "previews/taeho1/link.png"
+  },
+  {
+    "role": "text",
+    "label": "텍스트 선택",
+    "image": "previews/taeho1/text.png"
+  },
+  {
+    "role": "busy",
+    "label": "사용 중(대기)",
+    "image": "previews/taeho1/busy.png"
+  },
+  {
+    "role": "working",
+    "label": "백그라운드 작업",
+    "image": "previews/taeho1/working.png"
+  },
+  {
+    "role": "move",
+    "label": "이동",
+    "image": "previews/taeho1/move.png"
+  },
+  {
+    "role": "precision",
+    "label": "정밀 선택(십자선)",
+    "image": "previews/taeho1/precision.png"
+  },
+  {
+    "role": "unavailable",
+    "label": "사용할 수 없음",
+    "image": "previews/taeho1/unavailable.png"
+  }
+]
