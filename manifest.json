@@ -42,23 +42,23 @@
       }
     },
     {
-      "id": "quartzhover",
-      "name": "QuartzHover",
+      "id": "softacrylic",
+      "name": "SoftAcrylic",
       "description": "빛을 머금은 반투명 소프트 아크릴 커서. 몸체 안쪽이 은은하게 비치는 유리 질감이 특징입니다.",
       "author": "임태호",
       "version": "1.0.0",
-      "thumbnail": "previews/quartzhover/thumb.png",
-      "downloadUrl": "cursors/quartzhover.zip",
+      "thumbnail": "previews/softacrylic/thumb.png",
+      "downloadUrl": "cursors/softacrylic.zip",
       "sizeBytes": 6078477,
       "previews": [
-        { "role": "arrow", "label": "기본 포인터", "image": "previews/quartzhover/arrow.png" },
-        { "role": "link", "label": "링크 선택", "image": "previews/quartzhover/link.png" },
-        { "role": "text", "label": "텍스트 선택", "image": "previews/quartzhover/text.png" },
-        { "role": "busy", "label": "사용 중(대기)", "image": "previews/quartzhover/busy.png" },
-        { "role": "working", "label": "백그라운드 작업", "image": "previews/quartzhover/working.png" },
-        { "role": "move", "label": "이동", "image": "previews/quartzhover/move.png" },
-        { "role": "precision", "label": "정밀 선택(십자선)", "image": "previews/quartzhover/precision.png" },
-        { "role": "unavailable", "label": "사용할 수 없음", "image": "previews/quartzhover/unavailable.png" }
+        { "role": "arrow", "label": "기본 포인터", "image": "previews/softacrylic/arrow.png" },
+        { "role": "link", "label": "링크 선택", "image": "previews/softacrylic/link.png" },
+        { "role": "text", "label": "텍스트 선택", "image": "previews/softacrylic/text.png" },
+        { "role": "busy", "label": "사용 중(대기)", "image": "previews/softacrylic/busy.png" },
+        { "role": "working", "label": "백그라운드 작업", "image": "previews/softacrylic/working.png" },
+        { "role": "move", "label": "이동", "image": "previews/softacrylic/move.png" },
+        { "role": "precision", "label": "정밀 선택(십자선)", "image": "previews/softacrylic/precision.png" },
+        { "role": "unavailable", "label": "사용할 수 없음", "image": "previews/softacrylic/unavailable.png" }
       ],
       "files": {
         "Arrow": "arrow.cur",
