@@ -118,6 +118,45 @@
         "Pin": "pin_eoa.cur",
         "Person": "person_eoa.cur"
       }
+    },
+    {
+      "id": "trueglass",
+      "name": "TrueGlass",
+      "description": "맑고 매끈한 순수 유리 질감의 반투명 커서. 군더더기 없는 담백한 광택이 특징입니다.",
+      "author": "임태호",
+      "version": "1.0.0",
+      "thumbnail": "previews/trueglass/thumb.png",
+      "downloadUrl": "cursors/trueglass.zip",
+      "sizeBytes": 4237288,
+      "previews": [
+        { "role": "arrow", "label": "기본 포인터", "image": "previews/trueglass/arrow.png" },
+        { "role": "link", "label": "링크 선택", "image": "previews/trueglass/link.png" },
+        { "role": "text", "label": "텍스트 선택", "image": "previews/trueglass/text.png" },
+        { "role": "busy", "label": "사용 중(대기)", "image": "previews/trueglass/busy.png" },
+        { "role": "working", "label": "백그라운드 작업", "image": "previews/trueglass/working.png" },
+        { "role": "move", "label": "이동", "image": "previews/trueglass/move.png" },
+        { "role": "precision", "label": "정밀 선택(십자선)", "image": "previews/trueglass/precision.png" },
+        { "role": "unavailable", "label": "사용할 수 없음", "image": "previews/trueglass/unavailable.png" }
+      ],
+      "files": {
+        "Arrow": "arrow.cur",
+        "Help": "help.cur",
+        "AppStarting": "working.ani",
+        "Wait": "busy.ani",
+        "Crosshair": "precision.cur",
+        "IBeam": "text.cur",
+        "NWPen": "pen.cur",
+        "No": "unavailable.cur",
+        "SizeNS": "vertical.cur",
+        "SizeWE": "horizontal.cur",
+        "SizeNWSE": "diagonal1.cur",
+        "SizeNESW": "diagonal2.cur",
+        "SizeAll": "move.cur",
+        "UpArrow": "alternate.cur",
+        "Hand": "link.cur",
+        "Pin": "pin_eoa.cur",
+        "Person": "person_eoa.cur"
+      }
     }
   ]
 }
