@@ -157,6 +157,84 @@
         "Pin": "pin_eoa.cur",
         "Person": "person_eoa.cur"
       }
+    },
+    {
+      "id": "twinprism",
+      "name": "TwinPrism",
+      "description": "빛이 두 갈래로 갈라지는 쌍둥이 프리즘 커서. 대각으로 나뉜 명암 대비가 특징입니다.",
+      "author": "임태호",
+      "version": "1.0.0",
+      "thumbnail": "previews/twinprism/thumb.png",
+      "downloadUrl": "cursors/twinprism.zip",
+      "sizeBytes": 4015021,
+      "previews": [
+        { "role": "arrow", "label": "기본 포인터", "image": "previews/twinprism/arrow.png" },
+        { "role": "link", "label": "링크 선택", "image": "previews/twinprism/link.png" },
+        { "role": "text", "label": "텍스트 선택", "image": "previews/twinprism/text.png" },
+        { "role": "busy", "label": "사용 중(대기)", "image": "previews/twinprism/busy.png" },
+        { "role": "working", "label": "백그라운드 작업", "image": "previews/twinprism/working.png" },
+        { "role": "move", "label": "이동", "image": "previews/twinprism/move.png" },
+        { "role": "precision", "label": "정밀 선택(십자선)", "image": "previews/twinprism/precision.png" },
+        { "role": "unavailable", "label": "사용할 수 없음", "image": "previews/twinprism/unavailable.png" }
+      ],
+      "files": {
+        "Arrow": "arrow.cur",
+        "Help": "help.cur",
+        "AppStarting": "working.ani",
+        "Wait": "busy.ani",
+        "Crosshair": "precision.cur",
+        "IBeam": "text.cur",
+        "NWPen": "pen.cur",
+        "No": "unavailable.cur",
+        "SizeNS": "vertical.cur",
+        "SizeWE": "horizontal.cur",
+        "SizeNWSE": "diagonal1.cur",
+        "SizeNESW": "diagonal2.cur",
+        "SizeAll": "move.cur",
+        "UpArrow": "alternate.cur",
+        "Hand": "link.cur",
+        "Pin": "pin_eoa.cur",
+        "Person": "person_eoa.cur"
+      }
+    },
+    {
+      "id": "graphitespine",
+      "name": "GraphiteSpine",
+      "description": "각진 흑연 날처럼 매끈하고 단단한 인상의 커서. 날카로운 능선을 따라 짙은 그림자가 흐릅니다.",
+      "author": "임태호",
+      "version": "1.0.0",
+      "thumbnail": "previews/graphitespine/thumb.png",
+      "downloadUrl": "cursors/graphitespine.zip",
+      "sizeBytes": 3660642,
+      "previews": [
+        { "role": "arrow", "label": "기본 포인터", "image": "previews/graphitespine/arrow.png" },
+        { "role": "link", "label": "링크 선택", "image": "previews/graphitespine/link.png" },
+        { "role": "text", "label": "텍스트 선택", "image": "previews/graphitespine/text.png" },
+        { "role": "busy", "label": "사용 중(대기)", "image": "previews/graphitespine/busy.png" },
+        { "role": "working", "label": "백그라운드 작업", "image": "previews/graphitespine/working.png" },
+        { "role": "move", "label": "이동", "image": "previews/graphitespine/move.png" },
+        { "role": "precision", "label": "정밀 선택(십자선)", "image": "previews/graphitespine/precision.png" },
+        { "role": "unavailable", "label": "사용할 수 없음", "image": "previews/graphitespine/unavailable.png" }
+      ],
+      "files": {
+        "Arrow": "arrow.cur",
+        "Help": "help.cur",
+        "AppStarting": "working.ani",
+        "Wait": "busy.ani",
+        "Crosshair": "precision.cur",
+        "IBeam": "text.cur",
+        "NWPen": "pen.cur",
+        "No": "unavailable.cur",
+        "SizeNS": "vertical.cur",
+        "SizeWE": "horizontal.cur",
+        "SizeNWSE": "diagonal1.cur",
+        "SizeNESW": "diagonal2.cur",
+        "SizeAll": "move.cur",
+        "UpArrow": "alternate.cur",
+        "Hand": "link.cur",
+        "Pin": "pin_eoa.cur",
+        "Person": "person_eoa.cur"
+      }
     }
   ]
 }
