@@ -1,6 +1,6 @@
 {
   "manifestVersion": 1,
-  "updatedAt": "2026-09-27",
+  "updatedAt": "2026-09-28",
   "cursors": [
     {
       "id": "taeho1",
@@ -12,14 +12,46 @@
       "downloadUrl": "cursors/taeho1.zip",
       "sizeBytes": 545958,
       "previews": [
-        { "role": "arrow", "label": "기본 포인터", "image": "previews/taeho1/arrow.png" },
-        { "role": "link", "label": "링크 선택", "image": "previews/taeho1/link.png" },
-        { "role": "text", "label": "텍스트 선택", "image": "previews/taeho1/text.png" },
-        { "role": "busy", "label": "사용 중(대기)", "image": "previews/taeho1/busy.png" },
-        { "role": "working", "label": "백그라운드 작업", "image": "previews/taeho1/working.png" },
-        { "role": "move", "label": "이동", "image": "previews/taeho1/move.png" },
-        { "role": "precision", "label": "정밀 선택(십자선)", "image": "previews/taeho1/precision.png" },
-        { "role": "unavailable", "label": "사용할 수 없음", "image": "previews/taeho1/unavailable.png" }
+        {
+          "role": "arrow",
+          "label": "기본 포인터",
+          "image": "previews/taeho1/arrow.png"
+        },
+        {
+          "role": "link",
+          "label": "링크 선택",
+          "image": "previews/taeho1/link.png"
+        },
+        {
+          "role": "text",
+          "label": "텍스트 선택",
+          "image": "previews/taeho1/text.png"
+        },
+        {
+          "role": "busy",
+          "label": "사용 중(대기)",
+          "image": "previews/taeho1/busy.png"
+        },
+        {
+          "role": "working",
+          "label": "백그라운드 작업",
+          "image": "previews/taeho1/working.png"
+        },
+        {
+          "role": "move",
+          "label": "이동",
+          "image": "previews/taeho1/move.png"
+        },
+        {
+          "role": "precision",
+          "label": "정밀 선택(십자선)",
+          "image": "previews/taeho1/precision.png"
+        },
+        {
+          "role": "unavailable",
+          "label": "사용할 수 없음",
+          "image": "previews/taeho1/unavailable.png"
+        }
       ],
       "files": {
         "Arrow": "arrow.cur",
@@ -49,16 +81,48 @@
       "version": "1.0.0",
       "thumbnail": "previews/softacrylic/thumb.png",
       "downloadUrl": "cursors/softacrylic.zip",
-      "sizeBytes": 6078477,
+      "sizeBytes": 7380927,
       "previews": [
-        { "role": "arrow", "label": "기본 포인터", "image": "previews/softacrylic/arrow.png" },
-        { "role": "link", "label": "링크 선택", "image": "previews/softacrylic/link.png" },
-        { "role": "text", "label": "텍스트 선택", "image": "previews/softacrylic/text.png" },
-        { "role": "busy", "label": "사용 중(대기)", "image": "previews/softacrylic/busy.png" },
-        { "role": "working", "label": "백그라운드 작업", "image": "previews/softacrylic/working.png" },
-        { "role": "move", "label": "이동", "image": "previews/softacrylic/move.png" },
-        { "role": "precision", "label": "정밀 선택(십자선)", "image": "previews/softacrylic/precision.png" },
-        { "role": "unavailable", "label": "사용할 수 없음", "image": "previews/softacrylic/unavailable.png" }
+        {
+          "role": "arrow",
+          "label": "기본 포인터",
+          "image": "previews/softacrylic/arrow.png"
+        },
+        {
+          "role": "link",
+          "label": "링크 선택",
+          "image": "previews/softacrylic/link.png"
+        },
+        {
+          "role": "text",
+          "label": "텍스트 선택",
+          "image": "previews/softacrylic/text.png"
+        },
+        {
+          "role": "busy",
+          "label": "사용 중(대기)",
+          "image": "previews/softacrylic/busy.png"
+        },
+        {
+          "role": "working",
+          "label": "백그라운드 작업",
+          "image": "previews/softacrylic/working.png"
+        },
+        {
+          "role": "move",
+          "label": "이동",
+          "image": "previews/softacrylic/move.png"
+        },
+        {
+          "role": "precision",
+          "label": "정밀 선택(십자선)",
+          "image": "previews/softacrylic/precision.png"
+        },
+        {
+          "role": "unavailable",
+          "label": "사용할 수 없음",
+          "image": "previews/softacrylic/unavailable.png"
+        }
       ],
       "files": {
         "Arrow": "arrow.cur",
@@ -88,16 +152,48 @@
       "version": "1.0.0",
       "thumbnail": "previews/crystalfacet/thumb.png",
       "downloadUrl": "cursors/crystalfacet.zip",
-      "sizeBytes": 6200991,
+      "sizeBytes": 7615855,
       "previews": [
-        { "role": "arrow", "label": "기본 포인터", "image": "previews/crystalfacet/arrow.png" },
-        { "role": "link", "label": "링크 선택", "image": "previews/crystalfacet/link.png" },
-        { "role": "text", "label": "텍스트 선택", "image": "previews/crystalfacet/text.png" },
-        { "role": "busy", "label": "사용 중(대기)", "image": "previews/crystalfacet/busy.png" },
-        { "role": "working", "label": "백그라운드 작업", "image": "previews/crystalfacet/working.png" },
-        { "role": "move", "label": "이동", "image": "previews/crystalfacet/move.png" },
-        { "role": "precision", "label": "정밀 선택(십자선)", "image": "previews/crystalfacet/precision.png" },
-        { "role": "unavailable", "label": "사용할 수 없음", "image": "previews/crystalfacet/unavailable.png" }
+        {
+          "role": "arrow",
+          "label": "기본 포인터",
+          "image": "previews/crystalfacet/arrow.png"
+        },
+        {
+          "role": "link",
+          "label": "링크 선택",
+          "image": "previews/crystalfacet/link.png"
+        },
+        {
+          "role": "text",
+          "label": "텍스트 선택",
+          "image": "previews/crystalfacet/text.png"
+        },
+        {
+          "role": "busy",
+          "label": "사용 중(대기)",
+          "image": "previews/crystalfacet/busy.png"
+        },
+        {
+          "role": "working",
+          "label": "백그라운드 작업",
+          "image": "previews/crystalfacet/working.png"
+        },
+        {
+          "role": "move",
+          "label": "이동",
+          "image": "previews/crystalfacet/move.png"
+        },
+        {
+          "role": "precision",
+          "label": "정밀 선택(십자선)",
+          "image": "previews/crystalfacet/precision.png"
+        },
+        {
+          "role": "unavailable",
+          "label": "사용할 수 없음",
+          "image": "previews/crystalfacet/unavailable.png"
+        }
       ],
       "files": {
         "Arrow": "arrow.cur",
@@ -127,16 +223,48 @@
       "version": "1.0.0",
       "thumbnail": "previews/trueglass/thumb.png",
       "downloadUrl": "cursors/trueglass.zip",
-      "sizeBytes": 4237288,
+      "sizeBytes": 5189382,
       "previews": [
-        { "role": "arrow", "label": "기본 포인터", "image": "previews/trueglass/arrow.png" },
-        { "role": "link", "label": "링크 선택", "image": "previews/trueglass/link.png" },
-        { "role": "text", "label": "텍스트 선택", "image": "previews/trueglass/text.png" },
-        { "role": "busy", "label": "사용 중(대기)", "image": "previews/trueglass/busy.png" },
-        { "role": "working", "label": "백그라운드 작업", "image": "previews/trueglass/working.png" },
-        { "role": "move", "label": "이동", "image": "previews/trueglass/move.png" },
-        { "role": "precision", "label": "정밀 선택(십자선)", "image": "previews/trueglass/precision.png" },
-        { "role": "unavailable", "label": "사용할 수 없음", "image": "previews/trueglass/unavailable.png" }
+        {
+          "role": "arrow",
+          "label": "기본 포인터",
+          "image": "previews/trueglass/arrow.png"
+        },
+        {
+          "role": "link",
+          "label": "링크 선택",
+          "image": "previews/trueglass/link.png"
+        },
+        {
+          "role": "text",
+          "label": "텍스트 선택",
+          "image": "previews/trueglass/text.png"
+        },
+        {
+          "role": "busy",
+          "label": "사용 중(대기)",
+          "image": "previews/trueglass/busy.png"
+        },
+        {
+          "role": "working",
+          "label": "백그라운드 작업",
+          "image": "previews/trueglass/working.png"
+        },
+        {
+          "role": "move",
+          "label": "이동",
+          "image": "previews/trueglass/move.png"
+        },
+        {
+          "role": "precision",
+          "label": "정밀 선택(십자선)",
+          "image": "previews/trueglass/precision.png"
+        },
+        {
+          "role": "unavailable",
+          "label": "사용할 수 없음",
+          "image": "previews/trueglass/unavailable.png"
+        }
       ],
       "files": {
         "Arrow": "arrow.cur",
@@ -166,16 +294,48 @@
       "version": "1.0.0",
       "thumbnail": "previews/twinprism/thumb.png",
       "downloadUrl": "cursors/twinprism.zip",
-      "sizeBytes": 4015021,
+      "sizeBytes": 4729308,
       "previews": [
-        { "role": "arrow", "label": "기본 포인터", "image": "previews/twinprism/arrow.png" },
-        { "role": "link", "label": "링크 선택", "image": "previews/twinprism/link.png" },
-        { "role": "text", "label": "텍스트 선택", "image": "previews/twinprism/text.png" },
-        { "role": "busy", "label": "사용 중(대기)", "image": "previews/twinprism/busy.png" },
-        { "role": "working", "label": "백그라운드 작업", "image": "previews/twinprism/working.png" },
-        { "role": "move", "label": "이동", "image": "previews/twinprism/move.png" },
-        { "role": "precision", "label": "정밀 선택(십자선)", "image": "previews/twinprism/precision.png" },
-        { "role": "unavailable", "label": "사용할 수 없음", "image": "previews/twinprism/unavailable.png" }
+        {
+          "role": "arrow",
+          "label": "기본 포인터",
+          "image": "previews/twinprism/arrow.png"
+        },
+        {
+          "role": "link",
+          "label": "링크 선택",
+          "image": "previews/twinprism/link.png"
+        },
+        {
+          "role": "text",
+          "label": "텍스트 선택",
+          "image": "previews/twinprism/text.png"
+        },
+        {
+          "role": "busy",
+          "label": "사용 중(대기)",
+          "image": "previews/twinprism/busy.png"
+        },
+        {
+          "role": "working",
+          "label": "백그라운드 작업",
+          "image": "previews/twinprism/working.png"
+        },
+        {
+          "role": "move",
+          "label": "이동",
+          "image": "previews/twinprism/move.png"
+        },
+        {
+          "role": "precision",
+          "label": "정밀 선택(십자선)",
+          "image": "previews/twinprism/precision.png"
+        },
+        {
+          "role": "unavailable",
+          "label": "사용할 수 없음",
+          "image": "previews/twinprism/unavailable.png"
+        }
       ],
       "files": {
         "Arrow": "arrow.cur",
@@ -205,16 +365,48 @@
       "version": "1.0.0",
       "thumbnail": "previews/graphitespine/thumb.png",
       "downloadUrl": "cursors/graphitespine.zip",
-      "sizeBytes": 3660642,
+      "sizeBytes": 4323051,
       "previews": [
-        { "role": "arrow", "label": "기본 포인터", "image": "previews/graphitespine/arrow.png" },
-        { "role": "link", "label": "링크 선택", "image": "previews/graphitespine/link.png" },
-        { "role": "text", "label": "텍스트 선택", "image": "previews/graphitespine/text.png" },
-        { "role": "busy", "label": "사용 중(대기)", "image": "previews/graphitespine/busy.png" },
-        { "role": "working", "label": "백그라운드 작업", "image": "previews/graphitespine/working.png" },
-        { "role": "move", "label": "이동", "image": "previews/graphitespine/move.png" },
-        { "role": "precision", "label": "정밀 선택(십자선)", "image": "previews/graphitespine/precision.png" },
-        { "role": "unavailable", "label": "사용할 수 없음", "image": "previews/graphitespine/unavailable.png" }
+        {
+          "role": "arrow",
+          "label": "기본 포인터",
+          "image": "previews/graphitespine/arrow.png"
+        },
+        {
+          "role": "link",
+          "label": "링크 선택",
+          "image": "previews/graphitespine/link.png"
+        },
+        {
+          "role": "text",
+          "label": "텍스트 선택",
+          "image": "previews/graphitespine/text.png"
+        },
+        {
+          "role": "busy",
+          "label": "사용 중(대기)",
+          "image": "previews/graphitespine/busy.png"
+        },
+        {
+          "role": "working",
+          "label": "백그라운드 작업",
+          "image": "previews/graphitespine/working.png"
+        },
+        {
+          "role": "move",
+          "label": "이동",
+          "image": "previews/graphitespine/move.png"
+        },
+        {
+          "role": "precision",
+          "label": "정밀 선택(십자선)",
+          "image": "previews/graphitespine/precision.png"
+        },
+        {
+          "role": "unavailable",
+          "label": "사용할 수 없음",
+          "image": "previews/graphitespine/unavailable.png"
+        }
       ],
       "files": {
         "Arrow": "arrow.cur",
