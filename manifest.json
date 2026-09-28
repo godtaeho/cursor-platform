@@ -427,6 +427,45 @@
         "Pin": "pin_eoa.cur",
         "Person": "person_eoa.cur"
       }
+    },
+    {
+      "id": "magicalwand",
+      "name": "MagicalWand",
+      "description": "별빛이 흐르는 마법 지팡이 모양의 커서. 분홍빛 리본과 반짝이는 별 장식이 특징입니다.",
+      "author": "임태호",
+      "version": "1.0.0",
+      "thumbnail": "previews/magicalwand/thumb.png",
+      "downloadUrl": "cursors/magicalwand.zip",
+      "sizeBytes": 3771170,
+      "previews": [
+        { "role": "arrow", "label": "기본 포인터", "image": "previews/magicalwand/arrow.png" },
+        { "role": "link", "label": "링크 선택", "image": "previews/magicalwand/link.png" },
+        { "role": "text", "label": "텍스트 선택", "image": "previews/magicalwand/text.png" },
+        { "role": "busy", "label": "사용 중(대기)", "image": "previews/magicalwand/busy.png" },
+        { "role": "working", "label": "백그라운드 작업", "image": "previews/magicalwand/working.png" },
+        { "role": "move", "label": "이동", "image": "previews/magicalwand/move.png" },
+        { "role": "precision", "label": "정밀 선택(십자선)", "image": "previews/magicalwand/precision.png" },
+        { "role": "unavailable", "label": "사용할 수 없음", "image": "previews/magicalwand/unavailable.png" }
+      ],
+      "files": {
+        "Arrow": "arrow.cur",
+        "Help": "help.cur",
+        "AppStarting": "working.ani",
+        "Wait": "busy.ani",
+        "Crosshair": "precision.cur",
+        "IBeam": "text.cur",
+        "NWPen": "pen.cur",
+        "No": "unavailable.cur",
+        "SizeNS": "vertical.cur",
+        "SizeWE": "horizontal.cur",
+        "SizeNWSE": "diagonal1.cur",
+        "SizeNESW": "diagonal2.cur",
+        "SizeAll": "move.cur",
+        "UpArrow": "alternate.cur",
+        "Hand": "link.cur",
+        "Pin": "pin_eoa.cur",
+        "Person": "person_eoa.cur"
+      }
     }
   ]
 }
